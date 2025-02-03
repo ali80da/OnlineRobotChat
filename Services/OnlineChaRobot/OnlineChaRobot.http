@@ -1,0 +1,6 @@
+@OnlineChaRobot_HostAddress = http://localhost:5184
+
+GET {{OnlineChaRobot_HostAddress}}/OnChat/
+Accept: application/json
+
+###
